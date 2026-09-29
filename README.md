@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**dmouD/dmouD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋
 
-Here are some ideas to get you started:
+欢迎来到我的 GitHub 主页！
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+主业：ROS2 RL 具身智能
+副业：网络服务开发
+
+## 🌐 About Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR_USERNAME-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Blog](https://dcloud9.top)
+
+---
+
+## 🛠️ Equipments and Tools
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=default)
