@@ -8,8 +8,8 @@
 
 ## 🌐 About Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR_USERNAME-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Blog](https://dcloud9.top)
+[![GitHub](https://img.shields.io/badge/GitHub-dmouD-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/dmouD)
+[![Blog](https://img.shields.io/badge/Blog-DCloud9-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://dcloud9.top)
 
 ---
 
