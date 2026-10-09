@@ -1,7 +1,7 @@
 
 # Hello there
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arsenal+SC&size=26&duration=4999&pause=1000&color=696969&width=500&lines=Hello+here%2C+I'm+Dm0u)](https://git.io/typing-svg)
+![Typing SVG](https://readme-svg-typing-generator.vercel.app/api?lines=Hello+here%2C+I'm+Dm0u&animation=neon&color=00E5FF&size=28&width=700&height=80&repeat=true)
 
 ## 🌐 About Me
 
@@ -30,6 +30,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-RL-8A2BE2?style=for-the-badge)
 
 ---
 
