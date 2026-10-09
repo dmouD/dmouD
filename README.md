@@ -1,7 +1,9 @@
 
 # Hello there
 
-![Typing SVG](https://readme-svg-typing-generator.vercel.app/api?lines=Hello+here%2C+I'm+Dm0u&animation=neon&color=00E5FF&size=28&width=700&height=80&repeat=true)
+<p align="center">
+  <img src="./assets/terminal.svg" width="100%" />
+</p>
 
 ## 🌐 About Me
 
