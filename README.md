@@ -1,12 +1,13 @@
 
 # Hello there
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arsenal+SC&size=26&duration=4999&pause=1000&color=696969&width=500&lines=Hello+here%2C+I'm+Dm0u)](https://git.io/typing-svg)
 
 ## 🌐 About Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-dmouD-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/dmouD)
 [![Blog](https://img.shields.io/badge/Blog-DCloud9-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://dcloud9.top)
+[![Bilibili](https://img.shields.io/badge/Bilibili-Dm0u-FF6699?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/400201485)
 
 ---
 
