@@ -1,0 +1,163 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="760"
+  height="260"
+  viewBox="0 0 760 260"
+>
+  <style>
+    text {
+      font-family: "JetBrains Mono", "Fira Code", Consolas, monospace;
+      font-size: 18px;
+    }
+
+    .prompt {
+      fill: #7ee787;
+    }
+
+    .command {
+      fill: #c9d1d9;
+    }
+
+    .output {
+      fill: #58a6ff;
+    }
+
+    .muted {
+      fill: #8b949e;
+    }
+  </style>
+
+  <!-- Terminal background -->
+  <rect
+    x="1"
+    y="1"
+    width="758"
+    height="258"
+    rx="12"
+    fill="#0d1117"
+    stroke="#30363d"
+    stroke-width="2"
+  />
+
+  <!-- macOS-style buttons -->
+  <circle cx="25" cy="24" r="6" fill="#ff5f56"/>
+  <circle cx="45" cy="24" r="6" fill="#ffbd2e"/>
+  <circle cx="65" cy="24" r="6" fill="#27c93f"/>
+
+  <text x="95" y="30" class="muted" font-size="14">
+    dm0u@github — bash
+  </text>
+
+  <!-- Line 1 -->
+  <defs>
+    <clipPath id="line1" clipPathUnits="userSpaceOnUse">
+      <rect x="25" y="55" width="0" height="30">
+        <animate
+          attributeName="width"
+          from="0"
+          to="500"
+          dur="1.6s"
+          begin="0.3s"
+          fill="freeze"
+        />
+      </rect>
+    </clipPath>
+
+    <clipPath id="line2" clipPathUnits="userSpaceOnUse">
+      <rect x="25" y="90" width="0" height="30">
+        <animate
+          attributeName="width"
+          from="0"
+          to="500"
+          dur="0.8s"
+          begin="2s"
+          fill="freeze"
+        />
+      </rect>
+    </clipPath>
+
+    <clipPath id="line3" clipPathUnits="userSpaceOnUse">
+      <rect x="25" y="130" width="0" height="30">
+        <animate
+          attributeName="width"
+          from="0"
+          to="600"
+          dur="1.8s"
+          begin="3s"
+          fill="freeze"
+        />
+      </rect>
+    </clipPath>
+
+    <clipPath id="line4" clipPathUnits="userSpaceOnUse">
+      <rect x="25" y="165" width="0" height="30">
+        <animate
+          attributeName="width"
+          from="0"
+          to="700"
+          dur="2.2s"
+          begin="5s"
+          fill="freeze"
+        />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#line1)">
+    <text x="25" y="78">
+      <tspan class="prompt">Dm0u@github</tspan>
+      <tspan class="command">:~$ whoami</tspan>
+    </text>
+  </g>
+
+  <g clip-path="url(#line2)">
+    <text x="25" y="113" class="output">Dm0u</text>
+  </g>
+
+  <g clip-path="url(#line3)">
+    <text x="25" y="153">
+      <tspan class="prompt">Dm0u@github</tspan>
+      <tspan class="command">:~$ interests</tspan>
+    </text>
+  </g>
+
+  <g clip-path="url(#line4)">
+    <text x="25" y="188" class="output">
+      ROS 2 · Reinforcement Learning · AI Agents
+    </text>
+  </g>
+
+  <!-- Final prompt -->
+  <text x="25" y="225" opacity="0">
+    <tspan class="prompt">Dm0u@github</tspan>
+    <tspan class="command">:~$</tspan>
+
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur="0.2s"
+      begin="7.3s"
+      fill="freeze"
+    />
+  </text>
+
+  <!-- Blinking cursor -->
+  <rect
+    x="190"
+    y="208"
+    width="10"
+    height="21"
+    fill="#c9d1d9"
+    opacity="0"
+  >
+    <animate
+      attributeName="opacity"
+      values="0;0;1;0;1"
+      keyTimes="0;0.72;0.73;0.86;1"
+      dur="10s"
+      repeatCount="indefinite"
+    />
+  </rect>
+
+</svg>
