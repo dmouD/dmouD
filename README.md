@@ -1,9 +1,7 @@
 
-# Hi there
+# Hello there
 
-主业：ROS2 RL 具身智能
 
-副业：网络服务开发
 
 ## 🌐 About Me
 
